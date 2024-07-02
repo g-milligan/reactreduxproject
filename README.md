@@ -1,5 +1,7 @@
 # Setup
 
+[Quick start documentation](https://react-redux.js.org/tutorials/quick-start)
+
 This setup was done once to start this project. If you are cloning this project, you don't have to setup. Just skip to the install section.
 
 `./`
@@ -22,3 +24,7 @@ This chrome extension helps aid Redux development: [Redux DevTools](https://chro
 ``` shell
 npm install
 ```
+
+# Code diffs
+
+- Create redux store: [Code diff](#TODO)

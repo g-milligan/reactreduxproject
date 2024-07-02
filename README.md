@@ -27,4 +27,5 @@ npm install
 
 # Code diffs
 
-- Create redux store: [Code diff](#TODO)
+- Create initial redux store: [Code diff](https://github.com/g-milligan/reactreduxproject/commit/1545ea9cc798ebcf45b3b9e2721453b95a83d6fd)
+- Send the store to the Provider: [Code diff](#TODO)
